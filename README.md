@@ -3,6 +3,8 @@
 
 ## Credit
  Original addon by Stanislav Blinov (radcapricorn)
+ 
+ https://github.com/radcapricorn
 
 ## Supports
  Blender 2.90
